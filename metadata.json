@@ -1,0 +1,6 @@
+{
+  "name": "DocuMind Analytics",
+  "description": "An AI-powered document analysis tool for generating reports, presentations, and academic summaries from uploaded research documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
